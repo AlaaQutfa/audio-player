@@ -5,7 +5,6 @@ class Colors{
             document.body.style.background = "linear-gradient(to right, #00d2ff, #928dab)";
        
         }
-
     this.color1 = document.getElementById("color-1");
     this.color1.addEventListener("click",()=>{
         this.selectColor("color-1");
